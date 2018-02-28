@@ -1,4 +1,3 @@
-//Script by Akinfermo .. akinfermo@gmail.com
 
 This script allows you to communicate with Apple servers to retrieve information about Apple devices. 
 You need to submit an IMEI number or a Serial number.
